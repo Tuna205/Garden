@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d8e3674f203d0c743afc974f4ac60b7c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dahlia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b883b606b429a1d43a295fe542256a63, type: 3}
+  - {fileID: 12800000, guid: 62bcc59b4da907a4f9e53b26b8e582d7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
